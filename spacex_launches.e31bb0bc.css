@@ -1,0 +1,16 @@
+.typing[data-v-17696e]{
+    color:#FFF;
+    line-height: 1.5;
+    font-size:1.2rem;
+}@keyframes blinker {
+  100% {
+    opacity: 0;
+  }
+}
+.typing .typing_mark {
+  width: 10px;
+  height: 5px;
+  margin-left: 3px;
+  animation: blinker 500ms 500ms linear infinite;
+  display: inline-block;
+}
