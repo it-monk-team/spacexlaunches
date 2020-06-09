@@ -12281,7 +12281,7 @@ body .gb-vue-timeline-update--dark .gb-vue-timeline-update__right .gb-vue-timeli
 }
 body .fixed-bg {
   background-size: cover;
-  background-position: right center;
+  background-position: center;
   width: 100%;
   height: 100%;
 }
